@@ -12,11 +12,6 @@ h1
     padding: 0;
     color: #fff;
     font-size: 24px;
-    border: solid;
-    border-radius: 10px;
-    width: 85px;
-    height: 30px;
-    border-color: black;
 }
 .box
 {
@@ -56,8 +51,10 @@ input[type="submit"]
     cursor: pointer;
     background: #ffc107;
     color: #fff;
+    transition: -0.5s;
 }
 input[type="submit"]:hover
 {
-    background: #ff5722;
+    background: #f50a0a;
+    transition: 0.5s;
 }

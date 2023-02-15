@@ -8,6 +8,12 @@ body
     height: 100vh;
     background: #121c28;
 }
+.Name
+{
+    position: relative;
+    top: -50px;
+    left: 130px;
+}
 .btn
 {
     border: none;
@@ -18,6 +24,7 @@ body
     overflow: hidden;
     position: relative;
     color: #fff;
+    border-radius: 10%;
     font-weight: 700;
     padding: 17px 50px;
     font-size: 20px;

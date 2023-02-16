@@ -12,6 +12,13 @@ body
     min-height: 100vh;
     background: #fff;
 }
+.Name
+{
+    position: relative;
+    top: -220px;
+    left: 210px;
+    letter-spacing: 10px;
+}
 .card
 {
     position: relative;

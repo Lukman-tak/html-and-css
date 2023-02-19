@@ -5,6 +5,12 @@ body
     background: #0c002b;
     font-family: sans-serif;
 }
+.Name
+{
+    position: relative;
+    top: -20px;
+    left: 20px;
+}
 a
 {
     position: absolute;

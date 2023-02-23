@@ -20,7 +20,7 @@ h2
 }
 h2 span
 {
-    animation: animate 3s linear infinite;
+    animation: animate 2s linear infinite;
 }
 @keyframes animate
 {

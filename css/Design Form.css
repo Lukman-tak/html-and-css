@@ -8,10 +8,10 @@
 .container
 {
     text-align: center;
-    color: #fff;
+    color: #000;
     width: 100%;
     padding: 5rem 0;
-    background-image: url(../img/download.jpeg);
+    background-image: url(../img/lukman.jpeg);
     background-color: #e65b00;
     background-size: cover;
     display: grid;

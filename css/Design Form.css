@@ -8,7 +8,7 @@
 .container
 {
     text-align: center;
-    color: #000;
+    color: #000d;
     width: 100%;
     padding: 5rem 0;
     background-image: url(../img/lukman.jpeg);
@@ -57,7 +57,7 @@
 
         padding: 5px;
         background-color: transparent;
-        color: #fff;
+        color: #000;
     }
     .form-gorup select option
     {
@@ -149,7 +149,7 @@ textarea
     resize: none;
     background: transparent;
     border-radius: 6px;
-    color: #fff;
+    color: rgb(113, 155, 15);
     padding: 10px;
 }
 button
